@@ -1,5 +1,5 @@
 # Assembler
-NASM, sometimes without output, gdb or SASM is recommended
+Unrelated programs in NASM, sometimes without output, gdb or SASM is recommended
 
 FadeEffect - SIMD is a part of C code
 
