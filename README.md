@@ -1,7 +1,7 @@
 # Assembler
 NASM, sometimes without output, gdb or SASM is recommended
 
-FadeEffect - assembler in C code, SIMD used
+FadeEffect - SIMD is a part of C code
 
 BCD.asm - decimal into BCD code
 
